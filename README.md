@@ -4,7 +4,7 @@ I'm **Hasnaat**, an undergrad FullStack developer from **Pakistan** <img src="ht
 
 I fell into development & programming when I was 14 years old. Within a short period, I learned a lot of things related to my career, personal development, networking, and entrepreneurship.
 
-As I say, I'm a developer and In my early stages. I decided to build my own SaaS and I'm working on that because I want to build my own brand and want people to use that. You can say that I want to attach successful CEO or Founder word with my profile. 
+As I say, I'm a developer and In my early stages. I decided to build my own SaaS and I'm working on that because I want to build my own brand and want people to use that. You can say that I want to attach successful CEO or Founder by building an amazing SaaS. 
 
 <h2>Here is my focus while working on any project</h2>
 <li>Scalability</li>
