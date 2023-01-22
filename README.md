@@ -101,7 +101,7 @@ As I say, I'm a developer and In my early stages. I decided to build my own SaaS
       <a>
         <img src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379" width="60" />
         <br />
-        Express JS
+        Express
       </a>
     </td>
     <td align="center" width="205" height="120">
