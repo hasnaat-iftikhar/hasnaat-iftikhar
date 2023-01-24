@@ -94,7 +94,7 @@ As I say, I'm a developer and In my early stages. I decided to build my own SaaS
       <a>
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="60" />
         <br />
-        Node JS
+        Node
       </a>
     </td>
     <td align="center" width="205" height="120">
