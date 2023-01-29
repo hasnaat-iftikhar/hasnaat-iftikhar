@@ -1,16 +1,36 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hello everyone!</h2>
+<h2>Hello everyone!</h2>
 
-I'm **Hasnaat**, an undergrad FullStack developer from **Pakistan** <img src="https://media.istockphoto.com/id/1346528851/vector/flag-of-the-pakistan.jpg?s=612x612&w=0&k=20&c=EN-nPO2Huzwdd3gSIoGiIEP9r1Zv2BKDfj3w76pap_Y=" width="28" /> 
+I'm **Hasnaat**, Full-Stack ReactJS Developer at Visiata 🧙‍♂️ with a strong background in Frontend development and a passion for learning and mastering backend technologies. My expertise is creating responsive, user-friendly web applications using technologies such as ReactJS, and NextJS and I like to use Context API and Redux Toolkit for state management.
 
-I fell into development & programming when I was 14 years old. Within a short period, I learned a lot of things related to my career, personal development, networking, and entrepreneurship.
+I am currently focusing on developing and polishing my skills in backend development, particularly in Node.js, and elevating my skills in cloud computing with AWS.
 
-As I say, I'm a developer and In my early stages. I decided to build my own SaaS and I'm working on that because I want to build my own brand and want people to use that. You can say that I want to attach successful CEO or Founder by building an amazing Saas.
+I have experience in developing and deploying web applications. I have also worked on projects such as 
 
-<h2>Here is my focus while working on any project</h2>
-<li>Scalability</li>
-<li>Awesome & Responsive design</li>
-<li>Clean and understandable code</li>
-<li>Re-usable components</li>
+<table>
+  <tr>
+    <td align="center" width="337">
+      <a href="/">
+        <img src="https://user-images.githubusercontent.com/97826292/215343109-7fe5d98a-eff4-4587-94f2-d9fb926f347f.png" width="100%" height="100%" />
+      </a>
+    </td>
+    <td align="center" width="337">
+      <a href="/">
+        <img src="https://user-images.githubusercontent.com/97826292/215343124-0b62b57b-d664-439a-b104-3d8e686a31fd.png" width="100%" height="100%" />
+      </a>
+    </td>
+    <td align="center" width="337">
+      <a href="/">
+        <img src="https://user-images.githubusercontent.com/97826292/215343189-1e93ee27-68e8-4f0c-a3b0-bac56c1e351c.png" width="100%" height="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+- Visiata (visiata.com)
+- V-management (vmgnt.com)
+- Gemini Charis (geminicharis.com)
+
+I developed these projects using ReactJS, and NextJS and used Sass for styling. I always look for new challenges and opportunities to expand my knowledge and skills. I am open to new opportunities to utilize my skills and experience to help you to achieve your project's goals.
 
 <h2>Here are the technologies which I love to use!</h2>
 
