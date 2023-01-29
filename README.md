@@ -4,31 +4,28 @@ I'm **Hasnaat**, Full-Stack ReactJS Developer at Visiata 🧙‍♂️ with a st
 
 I am currently focusing on developing and polishing my skills in backend development, particularly in Node.js, and elevating my skills in cloud computing with AWS.
 
-I have experience in developing and deploying web applications. I have also worked on projects such as 
 
-<table>
+<h2>Projects on which I have worked on</h2>
+
+<table style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="337">
-      <a href="/">
+    <td align="center" width="337" style="border: none; padding: 0;">
+      <a href="visiata.com" target="_blank">
         <img src="https://user-images.githubusercontent.com/97826292/215343109-7fe5d98a-eff4-4587-94f2-d9fb926f347f.png" width="100%" height="100%" />
       </a>
     </td>
-    <td align="center" width="337">
-      <a href="/">
+    <td align="center" width="337" style="border: none; padding: 0;">
+      <a href="geminicharis.com" target="_blank">
         <img src="https://user-images.githubusercontent.com/97826292/215343124-0b62b57b-d664-439a-b104-3d8e686a31fd.png" width="100%" height="100%" />
       </a>
     </td>
-    <td align="center" width="337">
-      <a href="/">
+    <td align="center" width="337" style="border: none; padding: 0;">
+      <a href="unkswap.com" target="_blank">
         <img src="https://user-images.githubusercontent.com/97826292/215343189-1e93ee27-68e8-4f0c-a3b0-bac56c1e351c.png" width="100%" height="100%" />
       </a>
     </td>
   </tr>
 </table>
-
-- Visiata (visiata.com)
-- V-management (vmgnt.com)
-- Gemini Charis (geminicharis.com)
 
 I developed these projects using ReactJS, and NextJS and used Sass for styling. I always look for new challenges and opportunities to expand my knowledge and skills. I am open to new opportunities to utilize my skills and experience to help you to achieve your project's goals.
 
