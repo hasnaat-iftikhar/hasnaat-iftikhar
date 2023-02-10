@@ -1,4 +1,4 @@
-<h2>Heldldo evelopers!</h2>
+<h2>Heldlddo evelopers!</h2>
 
 I'm **Hasnaat**, Full-Stack ReactJS Developer at Visiata 🧙‍♂️ with a strong background in Frontend development and a passion for learning and mastering backend technologies. My expertise is creating responsive, user-friendly web applications using technologies such as ReactJS, and NextJS and I like to use Context API and Redux Toolkit for state management.
 
