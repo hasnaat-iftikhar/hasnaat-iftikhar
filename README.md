@@ -1,4 +1,4 @@
-Hi there! 👋 I'm a React Developer with a hunger for learning 📚 and implementing new things 💻. I believe in writing clean 🧼 and understandable code 🤓 and building scalable web applications that solve real-world problems 💡
+Hi there! 👋 I'm a React Developer with a hunger for learning 📚 and implementing new things 💻. I believe in writing clean 🧼 and understandable code 🤓 and building scalable web applications that solve real-world problems! 💡
 
 Currently, I'm working on an open-source e-commerce app called Kicks 👟, built with Next.js and Tailwind CSS. This project showcases my coding practices and style, and you can check it out on its GitHub repo 🌐
 Link of the repo: https://github.com/hasnaat-Iftikhar/ecommerce-kicks
