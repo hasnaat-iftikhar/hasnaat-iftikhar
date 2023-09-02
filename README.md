@@ -1,24 +1,24 @@
 I'm Hasnaat, a versatile Frontend Developer with over 3 years of experience, dedicated to crafting seamless User Experiences. 
 
 My expertise lies in the realm of 
-✔ JavaScript (ES6+)
-✔ TypeScript
-✔ React.JS
-✔ Next.JS
-✔ Redux Toolkit
-✔ Tailwind CSS
-✔ ShadCN
-✔ Styled components. 
+<br/>✔ JavaScript (ES6+)
+<br/>✔ TypeScript
+<br/>✔ React.JS
+<br/>✔ Next.JS
+<br/>✔ Redux Toolkit
+<br/>✔ Tailwind CSS
+<br/>✔ ShadCN
+<br/>✔ Styled components. 
 
 I'm on a mission to harness the power of AI to create innovative applications that can enhance people's digital experiences.
 
 In addition to my Frontend skills, I'm well-versed in
-✔ TypeScript
-✔ NextAuth
-✔ ORM (Mongoose, Prisma)
-✔ Backend Development (Node.JS, Express.JS, PostgreSQL, SQL)
-✔ Database services like (Planetscale, MongoDB, Redis)
-✔ REST APIs
+<br/>✔ TypeScript
+<br/>✔ NextAuth
+<br/>✔ ORM (Mongoose, Prisma)
+<br/>✔ Backend Development (Node.JS, Express.JS, PostgreSQL, SQL)
+<br/>✔ Database services like (Planetscale, MongoDB, Redis)
+<br/>✔ REST APIs
 
 I thrive on challenges and have experience in API development, testing, and integration, with a keen interest in Firebase.
 
