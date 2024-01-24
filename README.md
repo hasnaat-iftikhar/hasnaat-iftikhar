@@ -1,6 +1,6 @@
 ![Hasnaat Iftikhar - Frontend Developer - LinkedIn](https://github.com/hasnaat-iftikhar/hasnaat-iftikhar/assets/97826292/8501670d-f7ce-4a7f-ac2c-f5176f5cf561)
 
-I'm Hasnaat, a versatile Frontend Developer with over 4 years of experience, dedicated to crafting seamless User Experiences.
+I'm Hasnaat, a versatile Frontend Developer with over 4 years of experience, dedicated to crafting seamless User Experiences
 
 My expertise lies in the realm of:
 - JavaScript (ES6+)
