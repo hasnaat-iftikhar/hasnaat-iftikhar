@@ -8,8 +8,11 @@ I've had the pleasure of working with various startups such as Agile Loop, Webli
 
 As a CNCF Organizer, I'm dedicated to community building and fostering collaboration in the tech world. 
 
+
 → Cloud Native Security Pakistan (Organizing Team)
+
 → Google Developers Group Cloud Lahore (Past Development Manager)
+
 → Kubernetes Community Days Lahore (Past Development Manager)
 
 🚩 Specialties
