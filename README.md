@@ -1,50 +1,57 @@
-![Hasnaat Iftikhar - Frontend Developer - LinkedIn](https://github.com/hasnaat-iftikhar/hasnaat-iftikhar/assets/97826292/8501670d-f7ce-4a7f-ac2c-f5176f5cf561)
+<img width="1584" alt="banner of hasnaat" src="https://github.com/user-attachments/assets/57a310b8-2d4a-4553-9352-21779b32e495">
 
-I'm Hasnaat, a versatile Frontend Developer with over 4 years of experience, dedicated to crafting seamless User Experiences. 
+Hey there! I'm Hasnaat Iftikhar, specializing in boosting startups and businesses with performance-driven websites and standout product designs!
 
-🏆 My Technical Skills
+With a passion for web application development and product design, I offer top-notch services that elevate your online presence and drive business growth.
 
-💻 Front-End Development
+I've had the pleasure of working with various startups such as Agile Loop, Webling, and Webphase, helping them achieve their digital goals and stand out in competitive markets.
 
-🔸 HTML5, CSS3, SCSS, Styled Components
+As a CNCF Organizer, I'm dedicated to community building and fostering collaboration in the tech world. 
 
-🔸 Boostrap, Tailwind CSS, Shad CN
+→ Cloud Native Security Pakistan (Organizing Team)
+→ Google Developers Group Cloud Lahore (Past Development Manager)
+→ Kubernetes Community Days Lahore (Past Development Manager)
 
-🔸 JavaScript, TypeScript
+🚩 Specialties
 
-🔸 React, Next.JS, Remix, Astro, Qwik
+→ Languages
+- Typescript
+- JavaScript
 
-🔸 Context API, Redux Toolkit
+→ Frameworks
+- React.js
+- Next.js
+- Remix
+- Qwik
+- Astro
 
-🔸 NextAuth, Clerk, Google Auth
+→ Style Frameworks
+- Tailwind CSS
+- ShadCN
+- Styled Components
 
-🔸 Formik, React Hook Form, React Query
+→ Backend Technologies
+- Node.JS
+- Express
+- Mongoose
+- Prisma
+- REST APIs
 
-🔸 REST Apis
+→ Headless CMS
+- Contentful
+- Airtable
 
+→ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Supabase
+- Firebase
+- Redis
 
+→ Other Tools
+- Postman
+- Git and GitHub
 
-💻 In addition to my Front-End skills. I'm also well-versed in:
-
-🔸 Mongoose, Prisma
-
-🔸 Node.JS, Express.JS, PostgreSQL, SQL
-
-🔸 Planetscale, MongoDB
-
-🔸 Firebase, Heroku, Vercel, Netlify
-
-
-
-I thrive on challenges and have experience in API development, testing, and integration, with a keen interest in Firebase.
-
-Outside of coding, I'm an avid reader of tech articles and am committed to continuous learning, keeping up with the ever-evolving tech stacks. I believe in building things that make a difference on the internet, and I'm excited about the possibilities AI offers in this era.
-
-For a deeper dive into my projects and products, feel free to explore
-
-
-😺 My GitHub
-https://github.com/hasnaat-iftikhar
-
-💻 My website
-https://www.hasnaat-iftikhar.com
+Let's connect and discuss how I can help take your business to the next level. 
+Reach out to me at mhasnaat.iftikhar@gmail.com or connect with me on LinkedIn!
